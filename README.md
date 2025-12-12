@@ -1,33 +1,32 @@
-📌 Matrix Groups — Official Website Project
+# 📌 Matrix Groups — Official Website Project
 
-A modern, responsive website built for Matrix Groups, an educational and training initiative focusing on IT skill development, career growth, and community learning.
+    A modern, responsive website built for **Matrix Groups**, an educational and career development initiative focusing on IT training and student empowerment.
 
-This project is part of my personal portfolio and showcases my ability to design, structure, and develop full web solutions from scratch.
+---
 
-🚀 Features
-    Fully responsive UI
-    Modern layout with clean typography
-    Dedicated pages for:
-        Courses
-        Training Programs
-        About Us
-        Contact
-        Career Hub
-    Modular and reusable components
-    SEO-friendly structure
+## This project is part of my personal portfolio and showcases my ability to design, structure, and develop full web solutions from scratch.
 
-🛠️ Tech Stack
+## 🚀 Features
+    - Fully responsive UI
+    - Modern layout with clean typography
+    - Dedicated pages for:
+        - Courses
+        - Training Programs
+        - About Us
+        - Contact
+        - Career Hub
+    - Modular and reusable components
+    - SEO-friendly structure
 
-React
+## 🛠️ Tech Stack
+    - React
+    - TailwindCSS
+    - JavaScript
+    - Git & GitHub
+    - Deployment: Netlify / Vercel
 
-TailwindCSS
 
-JavaScript
-
-Git & GitHub
-
-Deployment: Netlify / Vercel
-
+## 📁 Project Structure
 
 matrix-groups-website/
 │── public/
@@ -41,37 +40,28 @@ matrix-groups-website/
 │── README.md
 
 
-🎯 Purpose of the Project
-
+## 🎯 Purpose of the Project
 Matrix Groups aims to:
-
-Train students in IT and soft skills
-
-Provide affordable programs
-
-Support rural students’ career development
-
-Build strong community learning networks
-
-This website serves as the official digital presence for the initiative.
+- Train students in IT and soft skills  
+- Provide affordable programs  
+- Support rural students’ career development  
+- Build strong community learning networks  
 
 
-✨ Future Enhancements
+---
 
-Blog section
+## ✨ Future Enhancements
+- Blog section  
+- Admin panel  
+- Online course listings  
+- Student login  
+- Payment gateway  
 
-Admin panel
+---
 
-Online course listings
-
-Student login
-
-Payment gateway
-
-
-🧑‍💻 Developer
-It_Is_Udhay
-Senior QA Automation Engineer
+## 🧑‍💻 Developer
+**Udhay**  
+Senior QA Automation Engineer 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
