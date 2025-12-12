@@ -7,8 +7,10 @@
 ## This project is part of my personal portfolio and showcases my ability to design, structure, and develop full web solutions from scratch.
 
 ## 🚀 Features
-    - Fully responsive UI
-    - Modern layout with clean typography
+    - Built with React + TypeScript
+    - Styled using TailwindCSS
+    - Fully responsive UI 
+    - Modular components architecture
     - Dedicated pages for:
         - Courses
         - Training Programs
@@ -19,24 +21,30 @@
     - SEO-friendly structure
 
 ## 🛠️ Tech Stack
-    - React
-    - TailwindCSS
-    - JavaScript
-    - Git & GitHub
-    - Deployment: Netlify / Vercel
+
+| Category            | Tools                         |
+| ------------------- | ----------------------------- |
+| **Frontend**        | React, TypeScript, JavaScript |
+| **Styling**         | TailwindCSS                   |
+| **Build Tool**      | Vite                          |
+| **Version Control** | Git & GitHub                  |
+| **Deployment**      | Netlify / Vercel              |
+
 
 
 ## 📁 Project Structure
-
 matrix-groups-website/
 │── public/
 │── src/
 │   ├── components/
 │   ├── pages/
 │   ├── assets/
-│   ├── App.jsx
-│   └── main.jsx
+│   ├── App.tsx
+│   ├── main.tsx
 │── package.json
+│── tailwind.config.js
+│── postcss.config.js
+│── tsconfig.json
 │── README.md
 
 
